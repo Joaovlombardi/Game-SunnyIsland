@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Images/fundo.jpg?fileID=2800000&amp;guid=1ba5bf9ba4db28243a60efd5276b2acd&amp;type=3#fundo&quot;); flex-direction: column; align-items: center; justify-content: flex-start; -unity-text-align: middle-left;">
+        <ui:Label tabindex="-1" text="Game" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; font-size: 40px; -unity-font: url(&quot;project://database/Assets/Font/Montserrat,Poppins/Montserrat/static/Montserrat-Regular.ttf?fileID=12800000&amp;guid=adb7884d3dd24ae4bad8a8d75253f208&amp;type=3#Montserrat-Regular&quot;); -unity-font-definition: initial; color: rgb(24, 6, 6); margin-top: 90px;" />
+        <ui:Button text="Jogar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnJogar" style="-unity-text-align: middle-center; white-space: normal; width: 100px; justify-content: flex-start; align-items: center; margin-top: 190px;" />
+    </ui:VisualElement>
+</ui:UXML>
